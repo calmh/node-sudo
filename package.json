@@ -11,7 +11,8 @@
   "main": "lib/sudo.js",
   "dependencies": {
     "inpath": "~1.0.2",
-    "read": "~1.0.3"
+    "read": "~1.0.3",
+    "pidof": "~1.0.2"
   },
   "devDependencies": {},
   "optionalDependencies": {},
