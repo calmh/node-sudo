@@ -2,7 +2,7 @@
   "author": "Jakob Borg <jakob@nym.se> (http://nym.se/)",
   "name": "sudo",
   "description": "Wrap sudo with optional password cache",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/calmh/node-sudo",
   "repository": {
     "type": "git",
