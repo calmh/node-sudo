@@ -1,0 +1,7 @@
+node-sudo
+=========
+
+License
+-------
+
+MIT
