@@ -17,6 +17,8 @@ sudo(args, options)
 
  - `options`: An optional object containing options. Recognized options are:
 
+    - `password`: String; sudo password.
+
     - `cachePassword`: Boolean; whether to remember the password between
       invocations or not.
 
